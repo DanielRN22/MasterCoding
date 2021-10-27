@@ -1,0 +1,42 @@
+#principal{
+    width: 1000px;
+    margin: auto;
+   
+}
+    #titulo{
+        width: 1000px;
+        height: 50px;
+        background-color: rgb(174, 174, 226);
+        text-align: center;        
+    }
+        section{
+            margin-top: 50PX;
+        }
+        article{
+            width: 240px;
+            
+        }
+        
+            #articulo1{
+                width: 320px;
+                height: 240px;
+                background-color: darkgoldenrod;
+                
+        
+            }
+            #articulo2{
+                width: 320px;
+                height: 240px;
+                background-color: rgb(94, 80, 47);
+            
+                
+            }
+            #articulo3{
+                width: 320px;
+                height: 240px;
+                background-color: rgb(66, 153, 139);
+        
+            }
+        
+        
+

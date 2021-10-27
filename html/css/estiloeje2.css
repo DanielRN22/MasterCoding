@@ -1,0 +1,27 @@
+*{
+    margin: :0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: cornsilk;
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    z-index: 100;
+    background-color: cornsilk;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    -webkit-box-shadow: 0px 8px 10px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 8px 10px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px 8px 10px -3px rgba(0,0,0,0.75);
+}
+.logo img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    padding: 15px 20px 15px 20px;
+    margin-left: 200px;
+}

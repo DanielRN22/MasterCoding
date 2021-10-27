@@ -1,0 +1,11 @@
+#contenedor{
+    display: grid;
+    background-color: darkgreen;
+    grid-template-columns: auto auto auto;
+}
+#contenedor div{
+    background-color: darkred;
+    text-align: center;
+    color: white;
+
+}
